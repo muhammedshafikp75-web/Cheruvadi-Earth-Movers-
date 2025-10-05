@@ -4,11 +4,13 @@ import pandas as pd
 import plotly.express as px
 from datetime import datetime
 
-DB_HOST = "your_host"
+DB_HOST = db.xnazwdbyhzvrpbpythpa.supabase.co
+
+
 DB_PORT = "5432"
-DB_NAME = "your_db"
-DB_USER = "your_user"
-DB_PASS = "your_password"
+DB_NAME = "postgres"
+DB_USER = "postgrest"
+DB_PASS = "5tjaU!fqjfh?Na+"
 
 vehicle_names = [
     "Excavator 01", "Excavator 02", "Excavator 03", "Excavator 04", "Excavator 05",
