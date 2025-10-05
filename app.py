@@ -9,7 +9,7 @@ DB_HOST = "db.xnazwdbyhzvrpbpythpa.supabase.co"
 
 DB_PORT = "5432"
 DB_NAME = "postgres"
-DB_USER = "postgrest"
+DB_USER = "postgres"
 DB_PASS = "5tjaU!fqjfh?Na+"
 
 vehicle_names = [
