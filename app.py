@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 from datetime import datetime
 
-DB_HOST = db.xnazwdbyhzvrpbpythpa.supabase.co
+DB_HOST = "db.xnazwdbyhzvrpbpythpa.supabase.co"
 
 
 DB_PORT = "5432"
